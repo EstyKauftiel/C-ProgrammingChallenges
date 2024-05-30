@@ -1,0 +1,7 @@
+﻿  FileName.c
+H:\C\lesson 2\lesson 2\lesson 2\FileName.c(9,19): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+H:\C\lesson 2\lesson 2\lesson 2\FileName.c(11,20): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+H:\C\lesson 2\lesson 2\lesson 2\FileName.c(7,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+H:\C\lesson 2\lesson 2\lesson 2\FileName.c(50,9): warning C4550: expression evaluates to a function which is missing an argument list
+H:\C\lesson 2\lesson 2\lesson 2\FileName.c(55,3): warning C4013: 'gets' undefined; assuming extern returning int
+  lesson 2.vcxproj -> H:\C\lesson 2\lesson 2\x64\Debug\lesson 2.exe
